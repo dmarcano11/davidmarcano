@@ -13,6 +13,9 @@ export default {
         'light-grey': '#8A8A8B',
         'dark-blue': '#1C242B',
       },
+      fontFamily: {
+        sans: ['Crimson Pro', 'serif'],
+      },
     },
   },
   plugins: [],
