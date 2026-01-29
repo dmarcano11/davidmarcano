@@ -17,7 +17,7 @@ function App() {
           
           <p className="text-base sm:text-lg md:text-xl mb-6 leading-relaxed">
             My goal is to tackle the toughest problems through hard work and teamwork. I'm a twin
-            and have the best parents in the world. I love baseball, ping pong, tennis,
+            to the biggest idiot Julio Marcano and have the best parents in the world. I love baseball, ping pong, tennis,
             lifting, and spending quality time with my friends.
           </p>
           
