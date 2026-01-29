@@ -10,28 +10,28 @@ function App() {
           </h1>
           
           <p className="text-base sm:text-lg md:text-xl mb-6 leading-relaxed">
-            I'm a developer and innovator. I work at JP Morgan Chase as a full-stack engineer
-            for an awesome team. I've been coding professionally for 3 years but building things
-            since I was gifted my first Star Wars Lego set.
+            I'm a full-stack engineer at JP Morgan Chase, where I've been coding professionally 
+            for three years. Before that, I studied mechanical engineering at the New Jersey 
+            Institute of Technology and played baseball, setting several school records.
           </p>
           
           <p className="text-base sm:text-lg md:text-xl mb-6 leading-relaxed">
-            My goal is to tackle the toughest problems through hard work and teamwork. I'm a twin
-            to the biggest idiot Julio Marcano and have the best parents in the world. I love baseball, ping pong, tennis,
-            lifting, and spending quality time with my friends.
+            I tackle tough problems through hard work. I'm a twin and have the best parents in the 
+            world. I love baseball, ping pong, tennis, lifting, CAD projects with my 3D printer, and 
+            spending quality time with friends.
           </p>
           
           <p className="text-base sm:text-lg md:text-xl mb-4 leading-relaxed">
-            Check out what I am building now:
+            Currently building:
           </p>
           
           <ul className="list-disc list-inside mb-6 text-base sm:text-lg md:text-xl space-y-2">
-            <li>Trading</li>
-            <li>Horse Racing</li>
+            <li>Trading algorithms</li>
+            <li>Horse racing analytics</li>
           </ul>
           
           <p className="text-base sm:text-lg md:text-xl leading-relaxed">
-            You can read my code on my github and follow me online. Reach out if interested.
+            Check out my code on GitHub and follow me online. Feel free to reach out.
           </p>
         </div>
       </div>
