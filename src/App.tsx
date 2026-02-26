@@ -8,30 +8,42 @@ function App() {
           <h1 className="text-xl sm:text-2xl md:text-2xl font-bold mb-6 sm:mb-8">
             David Marcano
           </h1>
-          
+
           <p className="text-base sm:text-lg md:text-xl mb-6 leading-relaxed">
-            I'm a full-stack engineer at JP Morgan Chase, where I've been coding professionally 
-            for three years. Before that, I studied mechanical engineering at the New Jersey 
-            Institute of Technology and played baseball, setting several school records.
+            I'm a full-stack engineer at JP Morgan Chase, where I've been coding
+            professionally for three years. Before that, I studied mechanical
+            engineering at the New Jersey Institute of Technology and played
+            baseball, setting several school records.
           </p>
-          
+
           <p className="text-base sm:text-lg md:text-xl mb-6 leading-relaxed">
-            I tackle tough problems through hard work. I'm a twin and have the best parents in the 
-            world. I love baseball, ping pong, tennis, lifting, CAD projects with my 3D printer, and 
-            spending quality time with friends.
+            I tackle tough problems through hard work. I'm a twin and have the
+            best parents in the world. I love baseball, ping pong, tennis,
+            lifting, 3D printing my CAD projects, and spending quality time with
+            friends.
           </p>
-          
+
           <p className="text-base sm:text-lg md:text-xl mb-4 leading-relaxed">
             Currently building:
           </p>
-          
+
           <ul className="list-disc list-inside mb-6 text-base sm:text-lg md:text-xl space-y-2">
             <li>Trading algorithms</li>
-            <li>Horse racing analytics</li>
+            <li>
+              <a
+                href="https://frontend-production-aff0.up.railway.app/"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="underline hover:opacity-70"
+              >
+                Horse racing analytics
+              </a>
+            </li>
           </ul>
-          
+
           <p className="text-base sm:text-lg md:text-xl leading-relaxed">
-            Check out my code on GitHub and follow me online. Feel free to reach out.
+            Check out my code on GitHub and follow me online. Feel free to reach
+            out.
           </p>
         </div>
       </div>
